@@ -30,13 +30,13 @@
 
     # always loaded
     'data': [
-        'security/ir.model.access.csv',
-        'views/dhx_assets.xml',
-        'views/dhx_task.xml',
-        'views/dhx_project.xml',
+        # 'security/ir.model.access.csv',
+        # 'views/dhx_assets.xml',
+        # 'views/dhx_task.xml',
+        # 'views/dhx_project.xml',
     ],
     'qweb': [
-        "static/src/xml/dhx_gantt.xml",
+        # "static/src/xml/dhx_gantt.xml",
     ],
     'images': [
         'images/screenshot_1.png'
